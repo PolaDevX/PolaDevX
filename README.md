@@ -18,34 +18,31 @@
 
 - 💻 **Role:** Junior Backend Developer specializing in Python, Django, and Django REST Framework.
 - 🔧 **Expertise:** Building RESTful APIs, database-driven applications, and integrating payment gateways (**Stripe** & **PayPal**).
-- 🎨 **Frontend Familiarity:** Proficient in **HTML5** and **Bootstrap** to seamlessly connect backend logic with clean interfaces.
+- 🎨 **Frontend Familiarity:** Proficient in **HTML5**, **CSS3**, and **Bootstrap** to seamlessly connect backend logic with clean interfaces.
 - 🎯 **Focus:** Writing clean, maintainable, and scalable code.
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://demolab.com" alt="GitHub Streak" />
-</div>
 
 ---
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://githubusercontent.com" width="45" height="45" alt="Python" title="Python" /> &nbsp;
-  <img src="https://githubusercontent.com" width="45" height="45" alt="Django" title="Django" /> &nbsp;
-  <img src="https://githubusercontent.com" width="45" height="45" alt="Flask" title="Flask" /> &nbsp;
-  <img src="https://githubusercontent.com" width="45" height="45" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;
-  <img src="https://githubusercontent.com" width="45" height="45" alt="MySQL" title="MySQL" /> &nbsp;
-  <img src="https://githubusercontent.com" width="45" height="45" alt="SQLite" title="SQLite" /> &nbsp;
-  <img src="https://githubusercontent.com" width="45" height="45" alt="HTML5" title="HTML5" /> &nbsp;
-  <img src="https://githubusercontent.com" width="45" height="45" alt="CSS3" title="CSS3" /> &nbsp;
-  <img src="https://githubusercontent.com" width="45" height="45" alt="Bootstrap" title="Bootstrap" /> &nbsp;
-  <img src="https://githubusercontent.com" width="45" height="45" alt="Git" title="Git" /> &nbsp;
-  <img src="https://githubusercontent.com" width="45" height="45" alt="GitHub" title="GitHub" />
-</div>
+<table>
+  <tr>
+    <td width="25%" align="center"><b>⚙️ Backend</b></td>
+    <td><code>Python</code> · <code>Django</code> · <code>Django REST Framework</code> · <code>Flask</code> · <code>REST APIs</code></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️ Databases</b></td>
+    <td><code>PostgreSQL</code> · <code>MySQL</code> · <code>SQLite</code></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🎨 Frontend</b></td>
+    <td><code>HTML5</code> · <code>CSS3</code> · <code>Bootstrap</code></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🔧 Tools & Payments</b></td>
+    <td><code>Git</code> · <code>GitHub</code> · <code>Stripe</code> · <code>PayPal</code></td>
+  </tr>
+</table>
 
 ---
 
