@@ -5,11 +5,6 @@
     Passionate Backend Developer focused on building scalable, secure, and efficient web applications.<br>
     Turning ideas into real-world applications, designing robust APIs, and developing reliable backend systems.
   </p>
-
-  <p>
-    📄 <a href="https://google.com"><b>Download CV</b></a> &nbsp;|&nbsp;
-    📧 <a href="mailto:polahany.eg@gmail.com"><b>polahany.eg@gmail.com</b></a>
-  </p>
 </div>
 
 <hr>
