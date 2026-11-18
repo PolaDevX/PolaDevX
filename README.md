@@ -6,14 +6,9 @@
     Turning ideas into real-world applications, designing robust APIs, and developing reliable backend systems.
   </p>
 
-  <!-- أزرار التواصل -->
   <p>
-    <a href="https://drive.google.com/file/d/108SnM7fOuBssjyFwpUNnT6qNafyqPPdj/view?usp=sharing">
-      <img src="https://shields.io" alt="Download CV" />
-    </a>
-    <a href="mailto:polahany.eg@gmail.com">
-      <img src="https://shields.io" alt="Email" />
-    </a>
+    📄 <a href="https://google.com"><b>Download CV</b></a> &nbsp;|&nbsp;
+    📧 <a href="mailto:polahany.eg@gmail.com"><b>polahany.eg@gmail.com</b></a>
   </p>
 </div>
 
@@ -28,11 +23,10 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Activity
 
 <div align="center">
-  <img height="180em" src="https://vercel.app"/>
-  <img height="180em" src="https://vercel.app"/>
+  <img src="https://demolab.com" alt="GitHub Streak" />
 </div>
 
 ---
@@ -40,35 +34,17 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-
-**Backend & APIs** <br>
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-
-<br><br>
-
-**Databases** <br>
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-
-<br><br>
-
-**Frontend** <br>
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-
-<br><br>
-
-**Tools & Integrations** <br>
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-
+  <img src="https://githubusercontent.com" width="45" height="45" alt="Python" title="Python" /> &nbsp;
+  <img src="https://githubusercontent.com" width="45" height="45" alt="Django" title="Django" /> &nbsp;
+  <img src="https://githubusercontent.com" width="45" height="45" alt="Flask" title="Flask" /> &nbsp;
+  <img src="https://githubusercontent.com" width="45" height="45" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;
+  <img src="https://githubusercontent.com" width="45" height="45" alt="MySQL" title="MySQL" /> &nbsp;
+  <img src="https://githubusercontent.com" width="45" height="45" alt="SQLite" title="SQLite" /> &nbsp;
+  <img src="https://githubusercontent.com" width="45" height="45" alt="HTML5" title="HTML5" /> &nbsp;
+  <img src="https://githubusercontent.com" width="45" height="45" alt="CSS3" title="CSS3" /> &nbsp;
+  <img src="https://githubusercontent.com" width="45" height="45" alt="Bootstrap" title="Bootstrap" /> &nbsp;
+  <img src="https://githubusercontent.com" width="45" height="45" alt="Git" title="Git" /> &nbsp;
+  <img src="https://githubusercontent.com" width="45" height="45" alt="GitHub" title="GitHub" />
 </div>
 
 ---
@@ -78,7 +54,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎓 <a href="https://github.com/PolaDevX/Educational-platform">Educational Platform</a></h4>
+      <h4>🎓 <a href="https://github.com">Educational Platform</a></h4>
       <p>Full-featured educational web platform built with Django.</p>
       <ul>
         <li>Course management & user subscription systems.</li>
@@ -86,7 +62,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/PolaDevX/website-without-AI">NEXUS AI</a></h4>
+      <h4>🤖 <a href="https://github.com">NEXUS AI</a></h4>
       <p>All-in-one AI web application built with Python & Flask.</p>
       <ul>
         <li>Powered by Groq API for Q&A chatbot and summarization.</li>
