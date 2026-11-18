@@ -18,7 +18,7 @@
 
 - 💻 **Role:** Junior Backend Developer specializing in Python, Django, and Django REST Framework.
 - 🔧 **Expertise:** Building RESTful APIs, database-driven applications, and integrating payment gateways (**Stripe** & **PayPal**).
-- 🎨 **Frontend Familiarity:** Proficient in **HTML5**, **CSS3**, and **Bootstrap** to seamlessly connect backend logic with clean interfaces.
+- 🎨 **Frontend Familiarity:** Proficient in **HTML5** and **Bootstrap** to seamlessly connect backend logic with clean interfaces.
 - 🎯 **Focus:** Writing clean, maintainable, and scalable code.
 
 ---
